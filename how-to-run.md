@@ -1,5 +1,5 @@
 ## Build the project
-1. Run mvn package in the root directory of the project.
+1. Run ```mvn package``` in the root directory of the project.
 
 ## Description
 1. Dockerfile         - File to build docker image of LogAnalyser application.
